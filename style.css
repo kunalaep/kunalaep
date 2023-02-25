@@ -8,8 +8,8 @@
 .container {
     width: 100%;
     min-height: 100vh;
-    background: url("11.png");
-    background-size: auto;
+    background: url("island.jpeg");
+    background-size: cover;
     background-position: center;
     border-radius: 0%;
     display: flex;
